@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Clara, Your Teammate
+- ✨ Software Engineer at Moda Analytica: Fullstack with Front-end focus
+- ✨ - Created justCompare from ground up,, Collaborated on Statmetrics
+- 📫 How to reach me sclara@modanalytica.com///cnsituma@gmail.com
